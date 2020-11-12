@@ -1,6 +1,5 @@
 # Mall-Customers-Clustering-Analysis_ML
 Machine Learning Project
-
 ### Context
 Data set is created only for the learning purpose of the customer segmentation concepts, also known as market basket analysis . It has been demonstrated this by using unsupervised ML technique (K-Means Clustering Algorithm) in the simplest form.
 ### Content
